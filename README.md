@@ -44,5 +44,22 @@ cd frontend
 npm install
 npm run dev
 ```
+## 📸 Application Screenshots
+
+### 1️⃣ Backend Server Running
+![Backend Server Running](screenshots/server_running.png)
+
+### 2️⃣ File Upload & Encoding Interface
+![Encoding Interface](screenshots/encoded_ui.png)
+
+### 3️⃣ Encoded File Output
+![Encoded Output1](screenshots/encoded_text1.png)
+![Encoded Output1](screenshots/encoded_text2.png)
+### 4️⃣ File Upload & Decoding Interface
+![Decoding Interface](screenshots/decoded_ui.png)
+
+### 5️⃣ Decoded Text Output
+![Decoded Output](screenshots/decoded_text.png)
+
 
 
